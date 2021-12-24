@@ -1,4 +1,6 @@
-### Hi there there's an Stupid profile you are on 👌 GOOD JOB!
+🍾 Misson Accompolished Soldier 🎉
+You found this Poop 💩 account on GitHub 
+Ask your Mom to get you a gaming PC
 
 
 
