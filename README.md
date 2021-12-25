@@ -13,4 +13,4 @@ Ask your Mom to get you a gaming PC
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `I forgot my GitHub's password.`
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishuPOG&&show_icons=true&title_color=0679FD&icon_color=FD0606&text_color=06FD50&bg_color=FFFFFF">
+<img src="https://github-readme-stats.vercel.app/api?username=VishuPOG&&show_icons=true&title_color=E45E9D&icon_color=FD0606&text_color=7D0541&bg_color=F8B88B">
