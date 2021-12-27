@@ -32,6 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=VishuPOG&&show_icons=true&title_color=E45E9D&icon_color=FD0606&text_color=7D0541&bg_color=F8B88B">
 
 
-
+![Profile views](https://gpvc.arturio.dev/VishuPOG)
 
 # Sayonara 🤚
