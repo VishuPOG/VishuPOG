@@ -1,4 +1,4 @@
-# Hellooi 👋, It'z Vishu  
+# Hellooi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It'z Vishu  
 **A fully functional animal with no brain, but alive......**
 
 ## Pronouns
