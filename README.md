@@ -2,7 +2,7 @@
 **A fully functional animal with no brain, but alive......**
 
 ## Pronouns
-#### 👨 **He/Him** ♂️
+👨 **He/Him** ♂️
 
 
 ## Curently learning 👨‍💻
