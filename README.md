@@ -6,8 +6,8 @@
 
 
 ## Curently learning 👨‍💻
-- [<img src="http://www.simpleimageresizer.com/_uploads/photos/b682344e/kisspng-python-programming-language-computer-programming-language-5acfdc365292a6.6915108915235717663382_2_15x15.png">](https://www.python.org/) **Python**
-- [<img src="http://www.simpleimageresizer.com/_uploads/photos/b682344e/1024px-Unofficial_JavaScript_logo_2.svg_15x15.png">](https://www.javascript.com/) **JavaScript**
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="15px">](https://www.python.org/) **Python**
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="15px">](https://www.javascript.com/) **JavaScript**
 
 
 ## My Projects
