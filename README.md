@@ -1,8 +1,38 @@
-# Hellooi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It'z Vishu  
-**A fully functional animal without brain, but alive......XD**
+```
+                                                   __   _,--="=--,_   __
+                                                  /  \."    .-.    "./  \
+                                                 /  ,/  _   : :   _  \/` \
+                                                 \  `| /o\  :_:  /o\ |\__/
+                                                  `-'| :="~` _ `~"=: |
+                                                     \`     (_)     `/
+                                              .-"-.   \      |      /   .-"-.
+                                         .---{     }--|  /,.-'-.,\  |--{     }---.
+                                          )  (_)_)_)  \_/`~-===-~`\_/  (_(_(_)  (
+                                         (              I am a dog               )
+                                          )                                     (
+                                         '---------------------------------------'
+```
 
-## Pronouns
-👨 **He/Him** ♂️
+
+
+```
+Hello guys 
+Welcome to my Minecraft 
+Lets play, Today we are going to be mining for diamonds 
+Hopefully some iron ore 
+Okay! Lets go outside now 
+and oh look at the cookies 
+lets follow the cookies its going in to a random cave 
+i have a bad feeling about this OH diamonds! 
+diamonds!
+diamonds!
+"press button for more diamonds" 
+ok guys lets press the button now  
+ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh !!!!!!!!!!!!!
+``` 
+<br/>
+
+
 
 
 ## Curently learning 👨‍💻
@@ -18,10 +48,21 @@
  - [**Butot**](https://discord.com/api/oauth2/authorize?client_id=841538520794923008&permissions=2151009472&scope=bot) <br/>
   Plays Music as per your choice.
 
+## ABOUT ME
 
-## Fun Fact 
-
-🤔 I forgot my GitHub's password. 😅
+```py
+class Information(AboutMe.Cog):
+    def __init__(self, Me):
+        self.me = myo
+        
+            this.name = "Vishu",
+            this.sex = "Male",
+            this.type = "Human"
+            
+def setup(me):
+    github.add_cog(Information(me))
+    print("Information cog is not working {error 404!}")
+```
 
 
 ## My Socials 
