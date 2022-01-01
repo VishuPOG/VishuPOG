@@ -56,7 +56,7 @@ class Information(AboutMe.Cog):
         self.me = myo
         
             this.name = "Vishu",
-            this.sex = "Male",
+            this.sex  = "Male",
             this.type = "Human"
             
 def setup(me):
