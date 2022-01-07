@@ -26,7 +26,7 @@ class Information(AboutMe.Cog):
             country = "India"
             sex     = "Male"
             type    = "Human"
-            hobby   = "Watching Anime"
+            hobby   = "Watch Anime"
             
             
 def setup(me):
