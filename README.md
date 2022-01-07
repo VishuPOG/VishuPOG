@@ -1,37 +1,3 @@
-```
-                                                   __   _,--="=--,_   __
-                                                  /  \."    .-.    "./  \
-                                                 /  ,/  _   : :   _  \/` \
-                                                 \  `| /o\  :_:  /o\ |\__/
-                                                  `-'| :="~` _ `~"=: |
-                                                     \`     (_)     `/
-                                              .-"-.   \      |      /   .-"-.
-                                         .---{     }--|  /,.-'-.,\  |--{     }---.
-                                          )  (_)_)_)  \_/`~-===-~`\_/  (_(_(_)  (
-                                         (              I am a dog               )
-                                          )                                     (
-                                         '---------------------------------------'
-```
-
-
-
-```
-Hello guys 
-Welcome to my Minecraft 
-Lets play, Today we are going to be mining for diamonds 
-Hopefully some iron ore 
-Okay! Lets go outside now 
-and oh look at the cookies 
-lets follow the cookies its going in to a random cave 
-i have a bad feeling about this OH diamonds! 
-diamonds!
-diamonds!
-"press button for more diamonds" 
-ok guys lets press the button now  
-ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh !!!!!!!!!!!!!
-``` 
-<br/>
-
 
 
 
@@ -77,3 +43,51 @@ def setup(me):
 
 
 # Sayonara <img src="https://i.ibb.co/n3Nb9Tv/ezgif-7-b7df4d1fa6.gif">
+
+
+
+
+
+
+
+
+
+
+<!-- This is commented out.
+```
+         __   _,--="=--,_   __
+        /  \."    .-.    "./  \
+       /  ,/  _   : :   _  \/` \
+       \  `| /o\  :_:  /o\ |\__/
+        `-'| :="~` _ `~"=: |
+           \`     (_)     `/
+    .-"-.   \      |      /   .-"-.
+.---{     }--|  /,.-'-.,\  |--{     }---.
+)  (_)_)_)  \_/`~-===-~`\_/  (_(_(_)  (
+(              I am a dog               )
+)                                     (
+'---------------------------------------'
+```
+-->
+
+
+
+
+<!-- This is commented out.
+```
+Hello guys 
+Welcome to my Minecraft 
+Lets play, Today we are going to be mining for diamonds 
+Hopefully some iron ore 
+Okay! Lets go outside now 
+and oh look at the cookies 
+lets follow the cookies its going in to a random cave 
+i have a bad feeling about this OH diamonds! 
+diamonds!
+diamonds!
+"press button for more diamonds" 
+ok guys lets press the button now  
+ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh !!!!!!!!!!!!!
+``` 
+<br/>
+-->
