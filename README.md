@@ -21,9 +21,13 @@ class Information(AboutMe.Cog):
     def __init__(self, Me):
         self.me = myo
         
-            this.name = "Vishu",
-            this.sex  = "Male",
-            this.type = "Human"
+            name    = "Vishu"
+            age     = "14"
+            country = "India"
+            sex     = "Male"
+            type    = "Human"
+            hobby   = "Watching Anime"
+            
             
 def setup(me):
     github.add_cog(Information(me))
