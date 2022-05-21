@@ -35,7 +35,7 @@ def setup(me):
 
 
 ## <img src="https://images.cooltext.com/5575240.png" width="190"> 
-[<img src="https://i.ibb.co/qJYL1GN/ezgif-2-3c3ea18e77.png">](https://discord.com/invite/BeCKeNWftj) &emsp; [<img src="https://i.ibb.co/FVBh6z0/ezgif-2-8b0620be26.gif">](https://www.instagram.com/vshoot.exe)          &emsp;      [<img src="https://i.ibb.co/Kr4b1QW/ezgif-2-a4ca14bec5.gif">](https://twitter.com/VishuBrokeD)   &emsp;   [<img src="https://i.ibb.co/Chyrjg8/ezgif-2-8afb9e7c0c-1.gif">](https://www.youtube.com/c/VshootMobile)
+[<img src="https://i.ibb.co/qJYL1GN/ezgif-2-3c3ea18e77.png">](https://discord.com/invite/BeCKeNWftj) &emsp; [<img src="https://i.ibb.co/FVBh6z0/ezgif-2-8b0620be26.gif">](https://www.instagram.com/vishu_uwu)          &emsp;      [<img src="https://i.ibb.co/Kr4b1QW/ezgif-2-a4ca14bec5.gif">](https://twitter.com/VishuBrokeD)   &emsp;   [<img src="https://i.ibb.co/Chyrjg8/ezgif-2-8afb9e7c0c-1.gif">](https://www.youtube.com/c/VshootMobile)
 
 
 ## <img src="https://images.cooltext.com/5575241.png" width="180">
